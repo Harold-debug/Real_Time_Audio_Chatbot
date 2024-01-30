@@ -1,6 +1,6 @@
 I built a real time audio chatbot. <br/>It works in several steps:
-<br/>
-  Takes audio input<br/>
+<br/><br/>
+  Takes audio input<br/><br/>
   transcription of audio into text<br/>
   text treatment and generation using LLM (blenderbot)<br/>
   Conversion of generated response text into audio
