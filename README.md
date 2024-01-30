@@ -6,7 +6,7 @@ I built a real time audio chatbot. <br/>It works in several steps:
   Conversion of generated response text into audio
   <br/>
   <br/>
-*Libraries*
+*Libraries*<br/><br/>
   speech Recognition (for audio transcription)<br/>
   gtts (google text to speech for audio generation)<br/>
   use of pipeline to connect to blenderbot llm from hugging face.
