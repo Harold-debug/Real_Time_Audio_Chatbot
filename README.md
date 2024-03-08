@@ -33,10 +33,6 @@ To get started with this project, follow these steps:
 
 Contributions are welcome! If you have a feature request, bug report, or want to improve the project, feel free to open an issue or submit a pull request.
 
-## License 📄
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact 📧
 
 If you have any questions or suggestions, feel free to reach out.
